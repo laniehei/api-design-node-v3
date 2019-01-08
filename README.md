@@ -2,8 +2,9 @@
 > Scott Moss & Frontend Masters
 
 - [Resources](#resources)
+- [Requirements](#requirements)
 - [Course](#course)
-- [Excercises](#excercises)
+- [Exercises](#exercises)
   - [Hello world Express](#hello-world-express)
   - [Routing](#routing)
   - [Create Schemas](#create-schemas)
@@ -12,14 +13,21 @@
   - [Testing](#testing)
 
 ## Resources
-* [Slides](https://slides.com/scotups/api-design-in-node-with-express-v3/fullscreen)
+* [Slides](https://slides.com/scotups/api-design-in-node-with-express-v3)
 * [Nodejs](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 
+## Requirements
+The following are suggested to be installed on your machine before beginning the course
+* [VSCode](https://code.visualstudio.com/)
+* [Nodejs](https://nodejs.org/en/)
+* [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+* [MongoDB](https://docs.mongodb.com/manual/administration/install-community/)
+
 ## Course
-This course has two parts, slides and excercises. The slides describe the excerices in detail. Each excercise has a starting branch and solution branch. Example `lesson-1` and `lesson-1-solution`.
-## Excercises
+This course has two parts, slides and exercises. The slides describe the exerices in detail. Each exercise has a starting branch and solution branch. Example `lesson-1` and `lesson-1-solution`.
+## Exercises
 ### Hello world Express
 * branch - `lesson-1`
 
@@ -73,4 +81,4 @@ In this exercise you'll be locking down our API using JWT's.
 - [ ] ensure all tests pass by running test command
 
 ### Testing
-THe other resources don't have any test, go ahead and write some!
+The other resources don't have any test, go ahead and write some!
