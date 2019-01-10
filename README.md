@@ -31,6 +31,9 @@ The following are suggested to be installed on your machine before beginning the
 This course has two parts, slides and exercises. The slides describe the exerices in detail. Each exercise has a starting branch and solution branch. Example `lesson-1` and `lesson-1-solution`.
 ## Exercises
 ### Hello world Express
+
+Note: Before running the tests for the exercise, ensure that mongodb is running. Please run `mongo` in a new terminal, then `mongod`.
+
 * branch - `lesson-1`
 
 In this lesson you'll be creating a simple Express based API in node, just to get your feet wet.
