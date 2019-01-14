@@ -32,7 +32,7 @@ This course has two parts, slides and exercises. The slides describe the exerice
 ## Exercises
 ### Hello world Express
 
-Note: Before running the tests for the exercise, ensure that mongodb is running. Please run `mongo` in a new terminal, then `mongod`.
+Note: Before running the tests for the exercise, ensure that mongoDB is running. Please run `mongo` in a new terminal.
 
 * branch - `lesson-1`
 
